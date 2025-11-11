@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS landing page",
-    description: "A beautiful landing page app using React and TailwindCSS",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    title: "Subscriber-Chat",
+    description: "A real-time chat management platform for online teachers, YouTubers, and online streamers using React, TypeScript,Node.js, and WebSockets.",
+    image: "/projects/project11.png",
+    tags: ["Websockets", "React", "Node.js"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/NakuloO7/zoom-chats",
   },
   {
     id: 2,
@@ -17,16 +17,6 @@ const projects = [
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
     image: "/projects/project2.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
-  {
-    id: 3,
-    title: "E-commerce Platform",
-    description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
     demoUrl: "#",
     githubUrl: "#",
   },
