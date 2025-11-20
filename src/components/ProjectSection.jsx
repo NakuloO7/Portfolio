@@ -14,11 +14,11 @@ const projects = [
     id: 2,
     title: "Orbit Analytics Dashboard",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+      "A Kanban board project management app with draggable cards and multi-board workflow management.",
+    image: "/projects/project22.png",
+    tags: ["TypeScript", "React", "DnD-Kit"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/NakuloO7/task-flow",
   },
 ];
 
